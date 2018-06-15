@@ -142,3 +142,11 @@ section { background:#f0f; display:block; }
 	padding: 0;
 	margin: 0;
 }
+
+#barcelona {
+	background-color: #800000;
+}
+
+#florida {
+	background-color: #03a9f4;
+}
